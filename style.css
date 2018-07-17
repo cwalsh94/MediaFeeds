@@ -1,0 +1,33 @@
+.Container {
+    position: relative; 
+}
+
+.Feed1 {
+    position: absolute;
+    top: 8px;
+    left: 16px; 
+    font-size: 18px; 
+}
+
+.Feed2 {
+    position: absolute;
+    top: 350px; 
+    left: 16px; 
+    font-size: 18px; 
+}
+
+.Feed3{
+    position: absolute;
+    top: 600px; 
+    left: 16px; 
+    font-size: 18px; 
+    
+}
+
+
+.Twitter { 
+    position: absolute;
+    top: 8px;
+    right: 16px; 
+    font-size: 18px; 
+}
